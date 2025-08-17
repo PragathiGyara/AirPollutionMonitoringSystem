@@ -1,0 +1,12 @@
+PM10,SO2,PM2.5,O3,NO2,CO,NO,NH3,Ouput,Source
+80,200,50,100,120,30,60,40,Safe,Safe
+100,200,50,100,120,30,60,40,Unsafe,Dust from unsealed roads
+80,250,50,100,120,30,60,40,Unsafe,Power station
+80,200,100,100,120,30,60,40,Unsafe,Smoke from fires
+80,200,50,125,150,30,60,40,Unsafe,Car and truck exhausts
+80,200,50,100,120,35,60,40,Unsafe,Industry
+80,200,50,100,120,30,100,40,Unsafe,Burning fossil fuels
+80,200,50,100,120,30,60,60,Unsafe,Power station
+357,47,299,0,76,3097,21,23,Unsafe,Burning fossil fuels
+80,200,50,100,120,40,60,40,Unsafe,Industry
+80,200,50,100,120,45,60,40,Unsafe,Industry
